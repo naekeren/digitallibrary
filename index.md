@@ -17,13 +17,13 @@ Berikut ini adalah Koleksi yang kami miliki:
 
 [Halaman 1](webti/halaman1.html)
 
-<br> <a href="webti/halaman1.html"> Halaman 1 ini pakai code </a> </br>
-<br> <a href="webti/halaman2.html"> Halaman 2 </a> </br>
-<br> <a href="webti/halaman3.html"> Halaman 3 </a> </br>
-<br> <a href="webti/halaman4.html"> Halaman 4 </a> </br>
-<br> <a href="webti/halaman5.html"> Halaman 5 </a> </br>
-<br> <a href="webti/halaman6.html"> Halaman 6 </a> </br>
-<br> <a href="webti/halaman7.html"> Halaman 7 </a> </br>
+<br> <a href="webti/halaman1.html"> Halaman 1 ini pakai code </a>
+<br> <a href="webti/halaman2.html"> Halaman 2 </a> 
+<br> <a href="webti/halaman3.html"> Halaman 3 </a> 
+<br> <a href="webti/halaman4.html"> Halaman 4 </a> 
+<br> <a href="webti/halaman5.html"> Halaman 5 </a> 
+<br> <a href="webti/halaman6.html"> Halaman 6 </a> 
+<br> <a href="webti/halaman7.html"> Halaman 7 </a>
 
 ----
 *Powered by GitHub Pages*
