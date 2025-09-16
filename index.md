@@ -16,4 +16,5 @@ Berikut ini adalah Koleksi yang kami miliki:
 
 
 ---
+[Halaman 1](webti/halaman1.html)
 *Powered by GitHub Pages*
