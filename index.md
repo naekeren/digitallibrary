@@ -15,7 +15,7 @@ Berikut ini adalah Koleksi yang kami miliki:
 10. [Rumah Kaca](ebook/Rumah Kaca.pdf) - Pramoedya Ananta Toer (1988)
 
 
----
 [Halaman 1](webti/halaman1.html)
 
+----
 *Powered by GitHub Pages*
