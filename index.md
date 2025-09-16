@@ -17,7 +17,7 @@ Berikut ini adalah Koleksi yang kami miliki:
 
 [Halaman 1](webti/halaman1.html)
 
-<a href="webti/halaman1.html"> Halaman 1 </a>
+<a href="webti/halaman1.html"> Halaman 1 </a> yang pakai code
 
 ----
 *Powered by GitHub Pages*
